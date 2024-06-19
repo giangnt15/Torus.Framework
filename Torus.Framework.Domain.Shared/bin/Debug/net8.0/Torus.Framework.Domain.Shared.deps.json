@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Torus.Framework.Domain.Shared/1.0.0": {
+        "runtime": {
+          "Torus.Framework.Domain.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Torus.Framework.Domain.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+E:\SourceCode\Torus.Framework\Torus.Framework.Core.Shared\bin\Debug\net8.0\Torus.Framework.Core.Shared.deps.json
+E:\SourceCode\Torus.Framework\Torus.Framework.Core.Shared\bin\Debug\net8.0\Torus.Framework.Core.Shared.dll
+E:\SourceCode\Torus.Framework\Torus.Framework.Core.Shared\bin\Debug\net8.0\Torus.Framework.Core.Shared.pdb
+E:\SourceCode\Torus.Framework\Torus.Framework.Core.Shared\obj\Debug\net8.0\Torus.Framework.Core.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\SourceCode\Torus.Framework\Torus.Framework.Core.Shared\obj\Debug\net8.0\Torus.Framework.Core.Shared.AssemblyInfoInputs.cache
+E:\SourceCode\Torus.Framework\Torus.Framework.Core.Shared\obj\Debug\net8.0\Torus.Framework.Core.Shared.AssemblyInfo.cs
+E:\SourceCode\Torus.Framework\Torus.Framework.Core.Shared\obj\Debug\net8.0\Torus.Framework.Core.Shared.csproj.CoreCompileInputs.cache
+E:\SourceCode\Torus.Framework\Torus.Framework.Core.Shared\obj\Debug\net8.0\Torus.Framework.Core.Shared.dll
+E:\SourceCode\Torus.Framework\Torus.Framework.Core.Shared\obj\Debug\net8.0\refint\Torus.Framework.Core.Shared.dll
+E:\SourceCode\Torus.Framework\Torus.Framework.Core.Shared\obj\Debug\net8.0\Torus.Framework.Core.Shared.pdb
+E:\SourceCode\Torus.Framework\Torus.Framework.Core.Shared\obj\Debug\net8.0\ref\Torus.Framework.Core.Shared.dll

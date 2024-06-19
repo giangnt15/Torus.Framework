@@ -1,0 +1,802 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SourceCode\\Torus.Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|e:\\sourcecode\\torus.framework\\torus.framework.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|solutionrelative:torus.framework.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\multitenancy\\currenttenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\multitenancy\\currenttenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\multitenancy\\icurrenttenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\multitenancy\\icurrenttenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\multitenancy\\imultitenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\multitenancy\\imultitenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\torus.framework.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\torus.framework.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\abstractsaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\abstractsaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\isagastep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\isagastep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|e:\\sourcecode\\torus.framework\\torus.framework.domain\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|solutionrelative:torus.framework.domain\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\messaging\\envelopfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\messaging\\envelopfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\sagamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\sagamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\sagastep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\sagastep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\sagastepbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\sagastepbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\remotesagastep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\remotesagastep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\sagareplymessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\sagareplymessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\sagareplyenvelop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\sagareplyenvelop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\sagainstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\sagainstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\sagadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\sagadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\sagabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\sagabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\localsagastep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\localsagastep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\istepoutcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\istepoutcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\isagadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\isagadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\isaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\isaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\messaging\\envelop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\messaging\\envelop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}|Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core.shared\\sagas\\sagareplyheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}|Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj|solutionrelative:torus.framework.core.shared\\sagas\\sagareplyheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}|Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core.shared\\sagas\\sagacommandheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}|Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj|solutionrelative:torus.framework.core.shared\\sagas\\sagacommandheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}|Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core.shared\\common\\replymessageheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}|Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj|solutionrelative:torus.framework.core.shared\\common\\replymessageheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}|Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core.shared\\commands\\commandreplyoutcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}|Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj|solutionrelative:torus.framework.core.shared\\commands\\commandreplyoutcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}|Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core.shared\\commands\\commandheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}|Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj|solutionrelative:torus.framework.core.shared\\commands\\commandheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|e:\\sourcecode\\torus.framework\\torus.framework.saga\\exceptions\\sagaunprocessableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}|Torus.Framework.Saga\\Torus.Framework.Saga.csproj|solutionrelative:torus.framework.saga\\exceptions\\sagaunprocessableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\commands\\commandenvelop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\commands\\commandenvelop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\messaging\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\messaging\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\messaging\\imessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\messaging\\imessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\messaging\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\messaging\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\serialization\\jsonserializerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\serialization\\jsonserializerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|e:\\sourcecode\\torus.framework\\torus.framework.core\\serialization\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3B4640-93D9-4450-9459-DF173BB18221}|Torus.Framework.Core\\Torus.Framework.Core.csproj|solutionrelative:torus.framework.core\\serialization\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AE771B-1FDC-4D4F-A274-2BC2909BA393}|Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj|e:\\sourcecode\\torus.framework\\torus.framework.domain.shared\\torus.framework.domain.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66AE771B-1FDC-4D4F-A274-2BC2909BA393}|Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj|solutionrelative:torus.framework.domain.shared\\torus.framework.domain.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|e:\\sourcecode\\torus.framework\\torus.framework.domain\\entities\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|solutionrelative:torus.framework.domain\\entities\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|e:\\sourcecode\\torus.framework\\torus.framework.domain\\entities\\ivalueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|solutionrelative:torus.framework.domain\\entities\\ivalueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|e:\\sourcecode\\torus.framework\\torus.framework.domain\\entities\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|solutionrelative:torus.framework.domain\\entities\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|e:\\sourcecode\\torus.framework\\torus.framework.domain\\torus.framework.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|solutionrelative:torus.framework.domain\\torus.framework.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|e:\\sourcecode\\torus.framework\\torus.framework.domain\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|solutionrelative:torus.framework.domain\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|e:\\sourcecode\\torus.framework\\torus.framework.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|solutionrelative:torus.framework.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|e:\\sourcecode\\torus.framework\\torus.framework.domain\\entities\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452B3057-4613-4A4C-B833-C39909DF7894}|Torus.Framework.Domain\\Torus.Framework.Domain.csproj|solutionrelative:torus.framework.domain\\entities\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AE771B-1FDC-4D4F-A274-2BC2909BA393}|Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj|e:\\sourcecode\\torus.framework\\torus.framework.domain.shared\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AE771B-1FDC-4D4F-A274-2BC2909BA393}|Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj|solutionrelative:torus.framework.domain.shared\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Domain\\Repositories\\IRepository.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Torus.Framework.Domain\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:24:08.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrentTenant.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\MultiTenancy\\CurrentTenant.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\MultiTenancy\\CurrentTenant.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\MultiTenancy\\CurrentTenant.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\MultiTenancy\\CurrentTenant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:20:17.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICurrentTenant.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\MultiTenancy\\ICurrentTenant.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\MultiTenancy\\ICurrentTenant.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\MultiTenancy\\ICurrentTenant.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\MultiTenancy\\ICurrentTenant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:18:13.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMultiTenant.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\MultiTenancy\\IMultiTenant.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\MultiTenancy\\IMultiTenant.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\MultiTenancy\\IMultiTenant.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\MultiTenancy\\IMultiTenant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:13:11.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISagaStep.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\ISagaStep.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\ISagaStep.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\ISagaStep.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\ISagaStep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:06:07.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SagaStepBuilder.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaStepBuilder.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\SagaStepBuilder.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaStepBuilder.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\SagaStepBuilder.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAQwHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:04:40.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SagaStep.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaStep.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\SagaStep.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaStep.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\SagaStep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:04:13.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SagaManager.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaManager.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\SagaManager.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaManager.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\SagaManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:02:48.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnvelopFactory.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Messaging\\EnvelopFactory.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\Messaging\\EnvelopFactory.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Messaging\\EnvelopFactory.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\Messaging\\EnvelopFactory.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwCAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:25:41.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Command.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Commands\\Command.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\Commands\\Command.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Commands\\Command.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\Commands\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:53:39.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Events\\IEvent.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Domain\\Events\\IEvent.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Events\\IEvent.cs",
+              "RelativeToolTip": "Torus.Framework.Domain\\Events\\IEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:35:43.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbstractSaga.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\AbstractSaga.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\AbstractSaga.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\AbstractSaga.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\AbstractSaga.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:20:47.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Torus.Framework.Core",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Torus.Framework.Core.csproj",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\Torus.Framework.Core.csproj",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Torus.Framework.Core.csproj",
+              "RelativeToolTip": "Torus.Framework.Core\\Torus.Framework.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T17:25:07.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RemoteSagaStep.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\RemoteSagaStep.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\RemoteSagaStep.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\RemoteSagaStep.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\RemoteSagaStep.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:02:29.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SagaReplyMessage.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaReplyMessage.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\SagaReplyMessage.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaReplyMessage.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\SagaReplyMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:03:59.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SagaReplyEnvelop.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaReplyEnvelop.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\SagaReplyEnvelop.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaReplyEnvelop.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\SagaReplyEnvelop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:03:37.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SagaInstance.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaInstance.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\SagaInstance.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaInstance.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\SagaInstance.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:02:37.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SagaData.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaData.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\SagaData.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaData.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\SagaData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:02:35.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SagaBuilder.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaBuilder.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\SagaBuilder.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\SagaBuilder.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\SagaBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:02:32.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LocalSagaStep.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\LocalSagaStep.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\LocalSagaStep.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\LocalSagaStep.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\LocalSagaStep.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:02:21.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStepOutcome.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\IStepOutcome.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\IStepOutcome.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\IStepOutcome.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\IStepOutcome.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAiwBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:02:09.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISagaData.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\ISagaData.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\ISagaData.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\ISagaData.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\ISagaData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:02:01.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISaga.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\ISaga.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\ISaga.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\ISaga.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\ISaga.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:01:48.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SagaReplyHeaders.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Sagas\\SagaReplyHeaders.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core.Shared\\Sagas\\SagaReplyHeaders.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Sagas\\SagaReplyHeaders.cs",
+              "RelativeToolTip": "Torus.Framework.Core.Shared\\Sagas\\SagaReplyHeaders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:58:53.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SagaCommandHeaders.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Sagas\\SagaCommandHeaders.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core.Shared\\Sagas\\SagaCommandHeaders.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Sagas\\SagaCommandHeaders.cs",
+              "RelativeToolTip": "Torus.Framework.Core.Shared\\Sagas\\SagaCommandHeaders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:58:50.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReplyMessageHeaders.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Common\\ReplyMessageHeaders.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core.Shared\\Common\\ReplyMessageHeaders.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Common\\ReplyMessageHeaders.cs",
+              "RelativeToolTip": "Torus.Framework.Core.Shared\\Common\\ReplyMessageHeaders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:58:43.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CommandReplyOutcome.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Commands\\CommandReplyOutcome.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core.Shared\\Commands\\CommandReplyOutcome.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Commands\\CommandReplyOutcome.cs",
+              "RelativeToolTip": "Torus.Framework.Core.Shared\\Commands\\CommandReplyOutcome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:58:33.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CommandHeaders.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Commands\\CommandHeaders.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core.Shared\\Commands\\CommandHeaders.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Commands\\CommandHeaders.cs",
+              "RelativeToolTip": "Torus.Framework.Core.Shared\\Commands\\CommandHeaders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:58:33.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Envelop.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Messaging\\Envelop.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\Messaging\\Envelop.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Messaging\\Envelop.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\Messaging\\Envelop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:25:31.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SagaUnprocessableException.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\Exceptions\\SagaUnprocessableException.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Saga\\Exceptions\\SagaUnprocessableException.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\Exceptions\\SagaUnprocessableException.cs",
+              "RelativeToolTip": "Torus.Framework.Saga\\Exceptions\\SagaUnprocessableException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:19:25.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\Commands\\ICommand.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Commands\\ICommand.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\Commands\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:56:42.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CommandEnvelop.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Commands\\CommandEnvelop.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\Commands\\CommandEnvelop.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Commands\\CommandEnvelop.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\Commands\\CommandEnvelop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:53:31.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "JsonSerializerFactory.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Serialization\\JsonSerializerFactory.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\Serialization\\JsonSerializerFactory.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Serialization\\JsonSerializerFactory.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\Serialization\\JsonSerializerFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:36:37.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JsonSerializer.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Serialization\\JsonSerializer.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\Serialization\\JsonSerializer.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Serialization\\JsonSerializer.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\Serialization\\JsonSerializer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:28:56.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Messaging\\Message.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\Messaging\\Message.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Messaging\\Message.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\Messaging\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:26:26.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IMessage.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Messaging\\IMessage.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\Messaging\\IMessage.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Messaging\\IMessage.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\Messaging\\IMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:26:16.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IMessageConsumer.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Messaging\\IMessageConsumer.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Core\\Messaging\\IMessageConsumer.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Messaging\\IMessageConsumer.cs",
+              "RelativeToolTip": "Torus.Framework.Core\\Messaging\\IMessageConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:25:25.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Entities\\ValueObject.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Domain\\Entities\\ValueObject.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Entities\\ValueObject.cs",
+              "RelativeToolTip": "Torus.Framework.Domain\\Entities\\ValueObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:16:27.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IValueObject.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Entities\\IValueObject.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Domain\\Entities\\IValueObject.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Entities\\IValueObject.cs",
+              "RelativeToolTip": "Torus.Framework.Domain\\Entities\\IValueObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:15:30.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Torus.Framework.Domain.Shared",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
+              "RelativeDocumentMoniker": "Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
+              "RelativeToolTip": "Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T17:00:24.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Exceptions\\BusinessException.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Domain.Shared\\Exceptions\\BusinessException.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Exceptions\\BusinessException.cs",
+              "RelativeToolTip": "Torus.Framework.Domain.Shared\\Exceptions\\BusinessException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:00:43.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Entities\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Domain\\Entities\\AggregateRoot.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Entities\\AggregateRoot.cs",
+              "RelativeToolTip": "Torus.Framework.Domain\\Entities\\AggregateRoot.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwDwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:45:36.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Entities\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Domain\\Entities\\IAggregateRoot.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Entities\\IAggregateRoot.cs",
+              "RelativeToolTip": "Torus.Framework.Domain\\Entities\\IAggregateRoot.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:30:57.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Torus.Framework.Domain",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Torus.Framework.Domain.csproj",
+              "RelativeDocumentMoniker": "Torus.Framework.Domain\\Torus.Framework.Domain.csproj",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Torus.Framework.Domain.csproj",
+              "RelativeToolTip": "Torus.Framework.Domain\\Torus.Framework.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T16:30:28.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Domain\\Entities\\Entity.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "Torus.Framework.Domain\\Entities\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:23:55.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "Torus.Framework.Domain\\Entities\\IEntity.cs",
+              "ToolTip": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain\\Entities\\IEntity.cs",
+              "RelativeToolTip": "Torus.Framework.Domain\\Entities\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:21:39.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

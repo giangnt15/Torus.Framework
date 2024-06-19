@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.Framework.Domain", "Torus.Framework.Domain\Torus.Framework.Domain.csproj", "{452B3057-4613-4A4C-B833-C39909DF7894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.Framework.Domain.Shared", "Torus.Framework.Domain.Shared\Torus.Framework.Domain.Shared.csproj", "{66AE771B-1FDC-4D4F-A274-2BC2909BA393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.Framework.Saga", "Torus.Framework.Saga\Torus.Framework.Saga.csproj", "{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.Framework.Core", "Torus.Framework.Core\Torus.Framework.Core.csproj", "{1B3B4640-93D9-4450-9459-DF173BB18221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.Framework.Core.Shared", "Torus.Framework.Core.Shared\Torus.Framework.Core.Shared.csproj", "{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{452B3057-4613-4A4C-B833-C39909DF7894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452B3057-4613-4A4C-B833-C39909DF7894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452B3057-4613-4A4C-B833-C39909DF7894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452B3057-4613-4A4C-B833-C39909DF7894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66AE771B-1FDC-4D4F-A274-2BC2909BA393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AE771B-1FDC-4D4F-A274-2BC2909BA393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AE771B-1FDC-4D4F-A274-2BC2909BA393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AE771B-1FDC-4D4F-A274-2BC2909BA393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B3B4640-93D9-4450-9459-DF173BB18221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3B4640-93D9-4450-9459-DF173BB18221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3B4640-93D9-4450-9459-DF173BB18221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3B4640-93D9-4450-9459-DF173BB18221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65451A22-4293-429E-AADC-F8B13FF92F60}
+	EndGlobalSection
+EndGlobal
