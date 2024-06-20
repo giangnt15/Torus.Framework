@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Torus.Framework.Core.MultiTenancy
 {
-    public interface ICurrentTenant
+    public interface ITenantIdResolver
     {
-        public Guid Id { get; }
-        public string Name { get; }
+        Task<Guid> ResolveAsync();
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hYUM+0VrIYAf+2y4hM00LVoPwGbRSRmV4bQ/QJYmJYROpIaChvPB3PN/fblHdFG6kLUlldqdplO6o+eXHQMSPg==",
+  "dgSpecHash": "/8cvIGWc/5wyGS1qE6oLXVJWak9c+i98r+Gew9P/yIG/IC0bkL9u5/onpn2taYOPTaZ0r+fRHGpcRiMNbNhdDw==",
   "success": true,
-  "projectFilePath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
+  "projectFilePath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -11,7 +11,5 @@ namespace Torus.Framework.Core.MultiTenancy
         public Guid Id { get; }
 
         public string Name { get; }
-
-        public string ConnectionString { get; }
     }
 }

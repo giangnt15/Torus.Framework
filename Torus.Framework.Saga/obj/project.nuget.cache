@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "iL7qTfiaR+2FxX4Am7bBRVeamxB+2SEZh2o3RDX9u1mcIpj2IBHZ1IBDSzftM7I+X+uwOxyVeN8vV8s+vMn0VQ==",
+  "dgSpecHash": "p0ElfrYY9JlBjqzQgKkJ9fAqUsjfuCtcoR8/i97e/JSHpBv0Zxyo96eYmxfXVtA0VqvrV1v3zpvccLJmIj4lEA==",
   "success": true,
-  "projectFilePath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\Torus.Framework.Saga.csproj",
+  "projectFilePath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Saga\\Torus.Framework.Saga.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\aquar\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\aquar\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\aquar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\aquar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
-    "C:\\Users\\aquar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\aquar\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\aquar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\aquar\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

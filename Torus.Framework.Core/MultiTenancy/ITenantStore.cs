@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Torus.Framework.Core.MultiTenancy
 {
-    public interface ICurrentTenant
+    public interface ITenantStore
     {
-        public Guid Id { get; }
-        public string Name { get; }
+        Task<TenantConfig> GetAsync(string tenantName);
+        Task<TenantConfig> GetAsync(Guid tenantId);
     }
 }

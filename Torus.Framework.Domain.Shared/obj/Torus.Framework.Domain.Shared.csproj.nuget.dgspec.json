@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj": {}
+    "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj": {}
   },
   "projects": {
-    "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj": {
+    "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
+        "projectUniqueName": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
         "projectName": "Torus.Framework.Domain.Shared",
-        "projectPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
+        "projectPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
         "packagesPath": "C:\\Users\\aquar\\.nuget\\packages\\",
-        "outputPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\obj\\",
+        "outputPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Domain.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aquar\\AppData\\Roaming\\NuGet\\NuGet.Config",

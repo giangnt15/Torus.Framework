@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\Torus.Framework.Saga.csproj": {}
+    "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Saga\\Torus.Framework.Saga.csproj": {}
   },
   "projects": {
-    "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj": {
+    "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj",
+        "projectUniqueName": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj",
         "projectName": "Torus.Framework.Core.Shared",
-        "projectPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj",
+        "projectPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj",
         "packagesPath": "C:\\Users\\aquar\\.nuget\\packages\\",
-        "outputPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\obj\\",
+        "outputPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aquar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Torus.Framework.Core.csproj": {
+    "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core\\Torus.Framework.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Torus.Framework.Core.csproj",
+        "projectUniqueName": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core\\Torus.Framework.Core.csproj",
         "projectName": "Torus.Framework.Core",
-        "projectPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Torus.Framework.Core.csproj",
+        "projectPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core\\Torus.Framework.Core.csproj",
         "packagesPath": "C:\\Users\\aquar\\.nuget\\packages\\",
-        "outputPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\obj\\",
+        "outputPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aquar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,7 +87,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj": {
+                "projectPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -105,6 +109,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -130,14 +142,14 @@
         }
       }
     },
-    "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj": {
+    "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
+        "projectUniqueName": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
         "projectName": "Torus.Framework.Domain.Shared",
-        "projectPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
+        "projectPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj",
         "packagesPath": "C:\\Users\\aquar\\.nuget\\packages\\",
-        "outputPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\obj\\",
+        "outputPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Domain.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aquar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,14 +202,14 @@
         }
       }
     },
-    "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\Torus.Framework.Saga.csproj": {
+    "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Saga\\Torus.Framework.Saga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\Torus.Framework.Saga.csproj",
+        "projectUniqueName": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Saga\\Torus.Framework.Saga.csproj",
         "projectName": "Torus.Framework.Saga",
-        "projectPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\Torus.Framework.Saga.csproj",
+        "projectPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Saga\\Torus.Framework.Saga.csproj",
         "packagesPath": "C:\\Users\\aquar\\.nuget\\packages\\",
-        "outputPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Saga\\obj\\",
+        "outputPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Saga\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aquar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -214,14 +226,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj": {
-                "projectPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj"
+              "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj": {
+                "projectPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core.Shared\\Torus.Framework.Core.Shared.csproj"
               },
-              "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Torus.Framework.Core.csproj": {
-                "projectPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Core\\Torus.Framework.Core.csproj"
+              "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core\\Torus.Framework.Core.csproj": {
+                "projectPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Core\\Torus.Framework.Core.csproj"
               },
-              "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj": {
-                "projectPath": "E:\\SourceCode\\Torus.Framework\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj"
+              "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj": {
+                "projectPath": "E:\\SourceCode\\Torus.FrameWork\\Torus.Framework.Domain.Shared\\Torus.Framework.Domain.Shared.csproj"
               }
             }
           }

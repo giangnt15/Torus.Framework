@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Torus.Framework.Core.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bf0ce19754efee38ee74d7b636ed68a9fa9344a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Torus.Framework.Core.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Torus.Framework.Core.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
