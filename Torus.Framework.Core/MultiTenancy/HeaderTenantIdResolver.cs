@@ -19,14 +19,14 @@ namespace Torus.Framework.Core.MultiTenancy
 
         }
 
-        public Task<Guid> ResolveAsync()
+        public Guid Resolve()
         {
             var tenantIdStr = _httpContextAccessor.HttpContext.Request.Headers[_headerName];
             if (tenantIdStr.Count == 0)
             {
-                return Task.FromResult(Guid.Empty);
+                return Guid.Empty;
             }
-            return Task.FromResult(Guid.Parse(tenantIdStr.First()));
+            return Guid.Parse(tenantIdStr.First());
         }
     }
 }

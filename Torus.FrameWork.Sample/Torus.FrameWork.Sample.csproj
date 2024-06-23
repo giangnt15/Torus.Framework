@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Torus.Framework.Core.Shared\Torus.Framework.Core.Shared.csproj" />
+    <ProjectReference Include="..\Torus.Framework.Core\Torus.Framework.Core.csproj" />
+    <ProjectReference Include="..\Torus.Framework.Domain.Shared\Torus.Framework.Domain.Shared.csproj" />
+    <ProjectReference Include="..\Torus.Framework.Domain\Torus.Framework.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

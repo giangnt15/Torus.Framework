@@ -1,0 +1,6 @@
+@Torus.FrameWork.Sample_HostAddress = http://localhost:5037
+
+GET {{Torus.FrameWork.Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Torus.Framework.Core.MultiTenancy
+namespace Torus.Framework.MongoDB.DbContexts
 {
-    public interface ITenantIdResolver
+    public class TorusMongoDbContext
     {
-        Guid Resolve();
+
     }
 }

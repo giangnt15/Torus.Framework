@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Torus.Framework.Core.MultiTenancy
+namespace Torus.Framework.Domain.Auditting
 {
-    public interface ITenantIdResolver
+    public interface ISoftDeleted
     {
-        Guid Resolve();
+        public bool? IsDeleted { get; set; }
     }
 }

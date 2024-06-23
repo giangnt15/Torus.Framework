@@ -10,8 +10,7 @@ namespace Torus.Framework.Core.MultiTenancy
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
-        public string ConnectionString { get; set; }
-        public string CommandConnectionString { get; set; }
-        public string QueryConnectionString { get; set; }
+
+        public Dictionary<string, string> ConnectionStrings { get; }
     }
 }

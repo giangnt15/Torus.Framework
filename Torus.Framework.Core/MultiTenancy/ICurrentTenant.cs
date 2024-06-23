@@ -8,7 +8,9 @@ namespace Torus.Framework.Core.MultiTenancy
 {
     public interface ICurrentTenant
     {
-        public Guid Id { get; }
-        public string Name { get; }
+        Guid Id { get; }
+        string Name { get; }
+
+        void ChangeTenant(ICurrentTenant tenant);
     }
 }

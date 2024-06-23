@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.Framework.Domain", "Torus.Framework.Domain\Torus.Framework.Domain.csproj", "{452B3057-4613-4A4C-B833-C39909DF7894}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torus.Framework.Domain", "Torus.Framework.Domain\Torus.Framework.Domain.csproj", "{452B3057-4613-4A4C-B833-C39909DF7894}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.Framework.Domain.Shared", "Torus.Framework.Domain.Shared\Torus.Framework.Domain.Shared.csproj", "{66AE771B-1FDC-4D4F-A274-2BC2909BA393}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torus.Framework.Domain.Shared", "Torus.Framework.Domain.Shared\Torus.Framework.Domain.Shared.csproj", "{66AE771B-1FDC-4D4F-A274-2BC2909BA393}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.Framework.Saga", "Torus.Framework.Saga\Torus.Framework.Saga.csproj", "{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torus.Framework.Saga", "Torus.Framework.Saga\Torus.Framework.Saga.csproj", "{BE3FFB2F-A56B-44EF-9CDA-58E890C2D608}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.Framework.Core", "Torus.Framework.Core\Torus.Framework.Core.csproj", "{1B3B4640-93D9-4450-9459-DF173BB18221}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torus.Framework.Core", "Torus.Framework.Core\Torus.Framework.Core.csproj", "{1B3B4640-93D9-4450-9459-DF173BB18221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.Framework.Core.Shared", "Torus.Framework.Core.Shared\Torus.Framework.Core.Shared.csproj", "{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torus.Framework.Core.Shared", "Torus.Framework.Core.Shared\Torus.Framework.Core.Shared.csproj", "{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.FrameWork.EntityFrameworkCore", "Torus.FrameWork.EntityFrameworkCore\Torus.FrameWork.EntityFrameworkCore.csproj", "{0AA09FFD-A5EF-415A-A183-8184E5867866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.Framework.MongoDB", "Torus.Framework.MongoDB\Torus.Framework.MongoDB.csproj", "{811F0B8B-7E5E-4848-A85F-063EFAFC2C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.FrameWork.Sample", "Torus.FrameWork.Sample\Torus.FrameWork.Sample.csproj", "{21779BFE-6F31-4013-A742-E703AEEC8365}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA09FFD-A5EF-415A-A183-8184E5867866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA09FFD-A5EF-415A-A183-8184E5867866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA09FFD-A5EF-415A-A183-8184E5867866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA09FFD-A5EF-415A-A183-8184E5867866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811F0B8B-7E5E-4848-A85F-063EFAFC2C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811F0B8B-7E5E-4848-A85F-063EFAFC2C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811F0B8B-7E5E-4848-A85F-063EFAFC2C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811F0B8B-7E5E-4848-A85F-063EFAFC2C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21779BFE-6F31-4013-A742-E703AEEC8365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21779BFE-6F31-4013-A742-E703AEEC8365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21779BFE-6F31-4013-A742-E703AEEC8365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21779BFE-6F31-4013-A742-E703AEEC8365}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

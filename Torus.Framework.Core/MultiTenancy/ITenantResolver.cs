@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Torus.Framework.Core.MultiTenancy
 {
-    internal class ITenantResolver
+    public interface ITenantResolver
     {
+        ICurrentTenant Resolve();
     }
 }
