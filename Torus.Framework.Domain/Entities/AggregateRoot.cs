@@ -9,7 +9,7 @@ namespace Torus.Framework.Domain.Entities
 {
     public abstract class AggregateRoot : Entity, IAggregateRoot
     {
-        public int Version { get; internal set; }
+        public int Version { get; set; }
 
         private readonly ICollection<IEvent> _localEvents = new List<IEvent>();
         private readonly ICollection<IEvent> _distributedEvents = new List<IEvent>();

@@ -8,7 +8,7 @@ namespace Torus.Framework.Core.Messaging
 {
     public interface IMessage
     {
-        public Guid Id { get; }
+        public Guid Id { get; set; }
 
         public string ToJson();
     }

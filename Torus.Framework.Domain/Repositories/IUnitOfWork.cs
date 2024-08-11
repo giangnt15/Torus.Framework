@@ -11,7 +11,11 @@ namespace Torus.Framework.Domain.Repositories
         Task BeginTransactionAsync();
         Task CommitAsync();
         Task RollbackAsync();
-
         TRepo GetRepository<TRepo>() where TRepo : IRepository;
+    }
+
+    public interface IUnitOfWork<TDbContext> : IUnitOfWork where TDbContext : ITorusDbContext
+    {
+  
     }
 }

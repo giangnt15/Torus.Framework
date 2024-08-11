@@ -1,19 +1,22 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>disable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>disable</Nullable>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<Version>1.0.0</Version>
+		<PackageOutputPath>D:\Nuget</PackageOutputPath>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.1" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.1" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Torus.Framework.Core.Shared\Torus.Framework.Core.Shared.csproj" />
-    <ProjectReference Include="..\Torus.Framework.Core\Torus.Framework.Core.csproj" />
-    <ProjectReference Include="..\Torus.Framework.Domain.Shared\Torus.Framework.Domain.Shared.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Torus.Framework.Core.Shared\Torus.Framework.Core.Shared.csproj" />
+		<ProjectReference Include="..\Torus.Framework.Core\Torus.Framework.Core.csproj" />
+		<ProjectReference Include="..\Torus.Framework.Domain.Shared\Torus.Framework.Domain.Shared.csproj" />
+	</ItemGroup>
 
 </Project>

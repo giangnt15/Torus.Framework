@@ -15,7 +15,7 @@ namespace Torus.FrameWork.EntityFrameworkCore
         public static TorusDbContextFactoryBuilder<TDbContext, TResolver> AddTorusDbContext<TDbContext, TResolver>(this IServiceCollection services)
             where TDbContext : TorusEfCoreDbContext<TDbContext>
             where TResolver : IConnectionStringResolver
-        {+
+        {
             return new TorusDbContextFactoryBuilder<TDbContext, TResolver>(services);
         }
     }

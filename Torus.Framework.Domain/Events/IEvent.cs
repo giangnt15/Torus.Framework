@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Torus.Framework.Core.Messaging;
+using Torus.Framework.Domain.Entities;
 
 namespace Torus.Framework.Domain.Events
 {
-    public interface IEvent : IMessage
+    public interface IEvent : IMessage, IVersioned
     {
         /// <summary>
         /// Id of the object/aggregate generating this event
@@ -18,9 +19,6 @@ namespace Torus.Framework.Domain.Events
         /// </summary>
         public Guid TriggeringMessageId { get; set; }
 
-        /// <summary>
-        /// Version of the object/aggregate generating this event
-        /// </summary>
-        public int Version { get; set; }
+        public DateTimeOffset Timestamp { get; set; }
     }
 }

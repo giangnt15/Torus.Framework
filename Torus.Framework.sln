@@ -13,11 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torus.Framework.Core", "Tor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torus.Framework.Core.Shared", "Torus.Framework.Core.Shared\Torus.Framework.Core.Shared.csproj", "{E0E42F72-BD2D-47DC-A16C-20B4E69CC54E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.FrameWork.EntityFrameworkCore", "Torus.FrameWork.EntityFrameworkCore\Torus.FrameWork.EntityFrameworkCore.csproj", "{0AA09FFD-A5EF-415A-A183-8184E5867866}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torus.FrameWork.EntityFrameworkCore", "Torus.FrameWork.EntityFrameworkCore\Torus.FrameWork.EntityFrameworkCore.csproj", "{0AA09FFD-A5EF-415A-A183-8184E5867866}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.Framework.MongoDB", "Torus.Framework.MongoDB\Torus.Framework.MongoDB.csproj", "{811F0B8B-7E5E-4848-A85F-063EFAFC2C76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torus.Framework.MongoDB", "Torus.Framework.MongoDB\Torus.Framework.MongoDB.csproj", "{811F0B8B-7E5E-4848-A85F-063EFAFC2C76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torus.FrameWork.Sample", "Torus.FrameWork.Sample\Torus.FrameWork.Sample.csproj", "{21779BFE-6F31-4013-A742-E703AEEC8365}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torus.FrameWork.Sample", "Torus.FrameWork.Sample\Torus.FrameWork.Sample.csproj", "{21779BFE-6F31-4013-A742-E703AEEC8365}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -10,7 +10,7 @@ using Torus.FrameWork.EntityFrameworkCore.DbContexts;
 
 namespace Torus.FrameWork.EntityFrameworkCore.Repositories
 {
-    public abstract class TorusEfCoreUnitOfWork<TDbContext> : IUnitOfWork, IAsyncDisposable
+    public abstract class TorusEfCoreUnitOfWork<TDbContext> : IUnitOfWork<TDbContext>, IAsyncDisposable
         where TDbContext : TorusEfCoreDbContext<TDbContext>
     {
         protected readonly TorusEfCoreScopedDbContextFactory<TDbContext> ContextFactory;
@@ -32,7 +32,7 @@ namespace Torus.FrameWork.EntityFrameworkCore.Repositories
         public async Task BeginTransactionAsync()
         {
             await GetDbContextAsync();
-            Transaction = await _dbContext.Database.BeginTransactionAsync();
+            //Transaction = await _dbContext.Database.BeginTransactionAsync();
         }
 
         public async Task CommitAsync()
@@ -48,14 +48,9 @@ namespace Torus.FrameWork.EntityFrameworkCore.Repositories
 
         }
 
-        public virtual TRepo GetRepository<TRepo>() where TRepo : IRepository
-        {
-            throw new NotImplementedException();
-        }
-
         public async Task RollbackAsync()
         {
-            await Transaction.RollbackAsync();
+            await Transaction?.RollbackAsync();
         }
 
         public async ValueTask DisposeAsync()
@@ -66,5 +61,11 @@ namespace Torus.FrameWork.EntityFrameworkCore.Repositories
             }
             GC.SuppressFinalize(this);
         }
+
+        public virtual TRepo GetRepository<TRepo>() where TRepo : IRepository
+        {
+            throw new NotImplementedException();
+        }
+
     }
 }
